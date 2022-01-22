@@ -16,3 +16,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://github.com/Anupriya-Sri/regexcite.anupriya
+BugReports: https://github.com/Anupriya-Sri/regexcite.anupriya/issues
